@@ -1,0 +1,7 @@
+{
+  "name": "TALAReto",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
